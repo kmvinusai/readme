@@ -17,8 +17,7 @@
 ---
 
 ### 🚀 Let's Connect!
-- 📫 [Email](mailto:youremail@example.com)
-- 🌐 [Portfolio](https://yourwebsite.com) (coming soon!)
+- 📫 [Email](kmvinay76@gmil.com)
 - 🤝 Open to collabs and learning together!
 
 > "Code is not just logic, it’s art with purpose."
